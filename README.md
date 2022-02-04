@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=innerNULL&layout=compact)](https://github.com/innerNULL/github-readme-stats)
 
-Hi, I'm an engineer focusing and focused on RecSys(includes system-design/dev and model/algorithms dev), NLP(starts on autumn of 2019), Model-Compression on CV, Algotrithm-Trading, and used working for Baidu & Weibo.
+Hi, I'm an engineer focusing and focused on RecSys(includes system-design/dev and model/algorithms dev), NLP(starts on autumn of 2019), also have some experimences about Model-Compression on CV and Algo-Trading, and used working for Baidu & Weibo.
 
 Here are some of my personal projects, some for production, some for learning or recording. 
 
