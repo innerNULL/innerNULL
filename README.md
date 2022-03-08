@@ -31,6 +31,9 @@ I'll list some of them:
     
     * [pypack](https://github.com/innerNULL/pypack): Stable  
     A tools helps generates a pckageable python runtime tar.gz file, for all kinds of python version and all kinds of systems/platforms.
+    
+    * [keytext4py](https://github.com/innerNULL/keytext4py): Ongoing  
+    KEY TEXT Extractor for PYthon
 
     * [cmakeup](https://github.com/innerNULL/cmakeup): Stable   
     An c/cpp package management system, simple, but easy to understand, which can let me integrate some unpopular but useful package to my project very fast even if there is not any resource about it on vcpkg.  
