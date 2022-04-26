@@ -51,7 +51,6 @@ I'll list some of them:
 * **Ongoing**
     * [odp](https://github.com/innerNULL/odp)
     * [mia](https://github.com/innerNULL/mia)
-    * [islearning](https://github.com/innerNULL/islearning)
     * [utopia](https://github.com/innerNULL/utopia)
 
 * **Toy Projects**  
