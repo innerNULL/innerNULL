@@ -32,7 +32,7 @@ I'll list some of them:
     * [pypack](https://github.com/innerNULL/pypack): Stable  
     A tools helps generates a pckageable python runtime tar.gz file, for all kinds of python version and all kinds of systems/platforms.
     
-    * [keytext4py](https://github.com/innerNULL/keytext4py): Ongoing  
+    * [io4doc](https://github.com/innerNULL/io4doc): Ongoing  
     KEY TEXT Extractor for PYthon
 
     * [cmakeup](https://github.com/innerNULL/cmakeup): Stable   
