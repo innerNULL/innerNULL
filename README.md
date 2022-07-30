@@ -49,6 +49,8 @@ I'll list some of them:
     The very detail code annotation for hnswlib.
 
 * **Ongoing**
+    * [quack](https://github.com/innerNULL/quack)
+    * [cana](https://github.com/innerNULL/cana)
     * [odp](https://github.com/innerNULL/odp)
     * [mia](https://github.com/innerNULL/mia)
     * [utopia](https://github.com/innerNULL/utopia)
