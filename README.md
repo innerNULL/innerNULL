@@ -30,13 +30,7 @@ I'll list some of them:
     A deduplication lib built Over [SIMHASH](https://github.com/yanyiwu/simhash).
     
     * [pypack](https://github.com/innerNULL/pypack): Stable  
-    A tools helps generates a pckageable python runtime tar.gz file, for all kinds of python version and all kinds of systems/platforms.
-    
-    * [keytext4py](https://github.com/innerNULL/io4doc): Ongoing  
-    KEY TEXT Extractor for PYthon
-
-    * [cmakeup](https://github.com/innerNULL/cmakeup): Stable   
-    An c/cpp package management system, simple, but easy to understand, which can let me integrate some unpopular but useful package to my project very fast even if there is not any resource about it on vcpkg.  
+    A tools helps generates a pckageable python runtime tar.gz file, for all kinds of python version and all kinds of systems/platforms. 
     
     * [pysparkit](https://github.com/innerNULL/pysparkit): Ongoing  
     A toolkit for pyspark development.
@@ -56,12 +50,14 @@ I'll list some of them:
     * [aim](https://github.com/innerNULL/aim)
 
 * **Toy Projects**  
+    * [keytext4py](https://github.com/innerNULL/io4doc): Ongoing  
+    KEY TEXT Extractor for PYthon
+    * [cmakeup](https://github.com/innerNULL/cmakeup): Stable   
+    An c/cpp package management system, simple, but easy to understand, which can let me integrate some unpopular but useful package to my project very fast even if there is not any resource about it on vcpkg. 
     * [v2vk](https://github.com/innerNULL/v2vk):   
     Early stage try for building an simple vector-based recall/matching service for recommender-sys.
     * [famuli](https://github.com/innerNULL/famuli): ONGOING   
     A Faster Module Lib, not supports fastText model inference and packrank training/infer. Just for try.
-    * [annex](https://github.com/innerNULL/annex): ONGOING    
-    A financial-market data subscription lib, base on alpaca websocket api.
     
 * **Self Using**  
     * [eastall](https://github.com/innerNULL/eastall):  
