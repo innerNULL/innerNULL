@@ -34,7 +34,10 @@ Hi, I'm an engineer focusing/focused on RecSys, NLP, also played Model-Compressi
     The very detail code annotation for facebook fasttext lib.
 
     * [hnswlibAnnotation](https://github.com/innerNULL/hnswlibAnnotation/tree/code_reading): ONGOING    
-    The very detail code annotation for hnswlib.
+    The very detail code annotation for hnswlib.  
+    
+    * [finBERT](https://github.com/innerNULL/finBERT/tree/code_reading):  
+    BERT for financial news sentiment classification.
 
 
 * **Self Using**  
