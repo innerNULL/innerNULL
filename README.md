@@ -41,7 +41,7 @@ Hi, I'm an engineer focusing/focused on RecSys, NLP, also played Model-Compressi
 
 
 * **Self Using**  
-    * [quicmd]([https://github.com/innerNULL/eastall](https://github.com/innerNULL/quicmd)):  
+    * [quicmd](https://github.com/innerNULL/quicmd):  
     Some useful quickly execution commands.
     * [config4](https://github.com/innerNULL/config4):  
     Some self-using configs, for now about tmux and vim.
