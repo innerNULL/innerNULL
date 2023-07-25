@@ -41,8 +41,8 @@ Hi, I'm an engineer focusing/focused on RecSys, NLP, also played Model-Compressi
 
 
 * **Self Using**  
-    * [eastall](https://github.com/innerNULL/eastall):  
-    Mainly contains some lib installation scripts, and some quick commands (of docker/nvidia-docker).
+    * [quicmd]([https://github.com/innerNULL/eastall](https://github.com/innerNULL/quicmd)):  
+    Some useful quickly execution commands.
     * [config4](https://github.com/innerNULL/config4):  
     Some self-using configs, for now about tmux and vim.
     * [wiki4codes](https://github.com/innerNULL/wiki4codes): ONGOING  
