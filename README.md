@@ -27,7 +27,9 @@ Hi, I'm an engineer focusing/focused on RecSys, NLP, also played Model-Compressi
     A deduplication lib built Over [SIMHASH](https://github.com/yanyiwu/simhash).
     
     * [pypack](https://github.com/innerNULL/pypack): Stable  
-    A tools helps generates a pckageable python runtime tar.gz file, for all kinds of python version and all kinds of systems/platforms. 
+    A tools helps generates a pckageable python runtime tar.gz file, for all kinds of python version and all kinds of systems/platforms.
+
+    * [PLM-ICD-multi-label-classifier](https://github.com/innerNULL/PLM-ICD-multi-label-classifier/tree/main)
 
 * **Codes Reading**  
     * [fastTextAnnotation](https://github.com/innerNULL/fastTextAnnotation/tree/code_reading):  
