@@ -17,12 +17,12 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=innerNULL&layout=compact)](https://github.com/innerNULL/github-readme-stats)
 
-Hi, I'm an engineer focusing/focused on RecSys, NLP in companies like Baidu/Weibo/Evernote, also played Model-Compression on CV && Algo-Trading. Here is my personal codes index
+Hi, I'm an engineer focusing/focused on RecSys, NLP in companies like Baidu/Weibo/Evernote, also played Model-Compression on CV && Algo-Trading. Here is my personal codes index:
 
 * **Side Projects**  
     * [feather](https://github.com/innerNULL/feather): An cpp/python feature-hash lib.
-    * [osimhash](https://github.com/innerNULL/osimhash): A text deduplication lib built Over [SIMHASH](https://github.com/yanyiwu/simhash).
-    * [pypack](https://github.com/innerNULL/pypack): A tool helps generates a pckageable python runtime tar.gz file, for all kinds of python version and all kinds of systems/platforms.
+    * [osimhash](https://github.com/innerNULL/osimhash): A text deduplication lib built over [simhash](https://github.com/yanyiwu/simhash) lib.
+    * [pypack](https://github.com/innerNULL/pypack): A tool helps generates a pckageable python runtime tar.gz file, for all kinds of python-version/os/platforms.
     * [PLM-ICD-multi-label-classifier](https://github.com/innerNULL/PLM-ICD-multi-label-classifier/tree/main): Reproduce paper [PLM-ICD: Automatic ICD Coding with Pretrained Language Models](https://arxiv.org/abs/2207.05289v1)
 
 * **Codes Reading**  
