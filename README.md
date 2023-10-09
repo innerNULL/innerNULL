@@ -19,20 +19,15 @@ Here are some ideas to get you started:
 
 Hi, I'm an engineer focusing/focused on RecSys, NLP, also played Model-Compression on CV and Algo-Trading. Here is my personal codes index
 
-* **Production Projects**  
+* **Side Projects**  
     * [feather](https://github.com/innerNULL/feather): An cpp/python feature-hash lib.
-    
     * [osimhash](https://github.com/innerNULL/osimhash): A text deduplication lib built Over [SIMHASH](https://github.com/yanyiwu/simhash).
-    
     * [pypack](https://github.com/innerNULL/pypack): A tool helps generates a pckageable python runtime tar.gz file, for all kinds of python version and all kinds of systems/platforms.
-
     * [PLM-ICD-multi-label-classifier](https://github.com/innerNULL/PLM-ICD-multi-label-classifier/tree/main): Reproduce paper [PLM-ICD: Automatic ICD Coding with Pretrained Language Models](https://arxiv.org/abs/2207.05289v1)
 
 * **Codes Reading**  
     * [fastTextAnnotation](https://github.com/innerNULL/fastTextAnnotation/tree/code_reading): The very detailed code annotation for facebook fasttext lib.
-
     * [hnswlibAnnotation](https://github.com/innerNULL/hnswlibAnnotation/tree/code_reading): The very detailed code annotation for hnswlib.  
-    
     * [finBERT](https://github.com/innerNULL/finBERT/tree/code_reading): BERT for financial news sentiment classification.
 
 
