@@ -16,6 +16,9 @@ Here are some ideas to get you started:
 -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=innerNULL&layout=compact)](https://github.com/innerNULL/github-readme-stats)
+![](https://raw.githubusercontent.com/innerNULL/innerNULL/master/profile-summary-card-output/nord_bright/1-repos-per-language.svg)
+![](https://raw.githubusercontent.com/innerNULL/innerNULL/master/profile-summary-card-output/nord_bright/2-most-commit-language.svg)
+![](https://raw.githubusercontent.com/innerNULL/innerNULL/master/profile-summary-card-output/nord_bright/3-stats.svg)
 
 Hi, I'm an engineer focusing/focused on RecSys, NLP in companies like Baidu/Weibo/Evernote, also played Model-Compression on CV && Algo-Trading. Here is my personal codes index:
 
