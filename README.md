@@ -17,11 +17,11 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=innerNULL&layout=compact)](https://github.com/innerNULL/github-readme-stats)
 
-<br />
+
 ## stats
-![My Github Stats](https://github-readme-stats.vercel.app/api?username=innernull&show_icons=true&hide_border=true)&nbsp;&nbsp;
-![My Language Stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=innernull&layout=compact&langs_count=8&hide_border=true)
-<br />
+![My Github Stats](https://github-readme-stats.vercel.app/api?username=innerNULL&show_icons=true&hide_border=true)&nbsp;&nbsp;
+![My Language Stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=innerNULL&layout=compact&langs_count=8&hide_border=true)
+
 
 Hi, I'm an engineer focusing/focused on RecSys, NLP in companies like Baidu/Weibo/Evernote, also played Model-Compression on CV && Algo-Trading. Here is my personal codes index:
 
