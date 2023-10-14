@@ -15,10 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=innerNULL&layout=compact)](https://github.com/innerNULL/github-readme-stats)
-
-
-## stats
+## Stats
 ![My Github Stats](https://github-readme-stats.vercel.app/api?username=innerNULL&show_icons=true&hide_border=true)&nbsp;&nbsp;
 ![My Language Stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=innerNULL&layout=compact&langs_count=8&hide_border=true)
 
