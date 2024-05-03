@@ -23,8 +23,8 @@ Here are some ideas to get you started:
 Hi, I'm a **machine learning engineer** focusing/focused on multiple domains: 3.5 years **NLP**, 3.5 years **recommender-system**, 2 years **quantitative finance**, 0.5 years **model-compression**. 
 
 I'm doing/did all **machine learning**, **backend engineering** and **data engineering** job, here are the tech stacks I used before: 
-* **Programming Languages**: _Python, C++, Java (Only for Data-Engineering), SQL, Shell, Rust (A Little)_
-* **Frameworks or Libs**: _Pulsar, Milvus, gRPC, Spark, Hive, K8S, PyTorch, FAISS, Redis, TensorFlow (Long Time Ago)_
+* **Programming Languages**: _Python, C++, Java (Only for Data-Engineering), SQL, JavaScript, Shell, Rust (A Little)_
+* **Frameworks, Libs or Tools**: _Pulsar, Milvus, gRPC, Spark, Hive, K8S, PyTorch, FAISS, Redis, Flask, TensorFlow (Long Time Ago)_
 
 Here is my **projects index**:
 
