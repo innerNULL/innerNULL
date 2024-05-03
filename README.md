@@ -20,7 +20,11 @@ Here are some ideas to get you started:
 ![Language Stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=innerNULL&layout=compact&langs_count=8&hide_border=true)
 
 
-Hi, I'm an engineer focusing/focused on RecSys, NLP in companies like Baidu/Weibo/Evernote, also played Model-Compression on CV && Algo-Trading. Here is my personal codes index:
+Hi, I'm machine learning engineer focusing/focused on multiple domains: 3.5 years **NLP**, 3.5 years **recommender-system**, 2 years **quantitative finance**, 0.5 years **model-compression**. 
+
+I'm doing/did all **machine learning**, **backend engineering** and **data engineering** job, here are the tech stacks I used before: 
+* **Programming Languages**: _Python, C++, Java (Only for Data-Engineering), SQL, Shell, Rust (A Little)_
+* **Frameworks or Libs**: _Pulsar, Milvus, gRPC, Spark, Hive, K8S, PyTorch, FAISS, Redis, TensorFlow (Long Time Ago)_
 
 * **Side Projects**  
     * [feather](https://github.com/innerNULL/feather): An cpp/python feature-hash lib.
