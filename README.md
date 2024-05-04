@@ -32,7 +32,7 @@ Here is my **projects index**:
     * [PLM-ICD-multi-label-classifier](https://github.com/innerNULL/PLM-ICD-multi-label-classifier/tree/main): **Reproduce paper** [PLM-ICD: Automatic ICD Coding with Pretrained Language Models](https://arxiv.org/abs/2207.05289v1)   
     * [feather](https://github.com/innerNULL/feather): A **C++** **feature-hash** lib with **Python binding** provided.
     * [osimhash](https://github.com/innerNULL/osimhash): A **Python binder** over [**simhash**](https://github.com/yanyiwu/simhash) **C++** text deduplication lib.
-    * [pypack](https://github.com/innerNULL/pypack): Generates pckageable python runtime tar.gz file (for **PySpark**) runnable on all python-version/os/platforms.
+    * [pypack](https://github.com/innerNULL/pypack): Generates **Python runtime tar.gz file** (for **PySpark**) runnable on all python-version/os/platforms.
 
 * **Codes Reading**  
     * [fastTextAnnotation](https://github.com/innerNULL/fastTextAnnotation/tree/code_reading): The very detailed code annotation for facebook fasttext lib.
