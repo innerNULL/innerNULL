@@ -29,7 +29,9 @@ I have experience in **machine learning**, **backend engineering** and **data en
 Here is my **projects index**:
 
 * **Side Projects**
-    * [PLM-ICD-multi-label-classifier](https://github.com/innerNULL/PLM-ICD-multi-label-classifier/tree/main): **Reproduce paper** [PLM-ICD: Automatic ICD Coding with Pretrained Language Models](https://arxiv.org/abs/2207.05289v1)   
+    * [simpler-distil-whisper](https://github.com/innerNULL/simpler-distil-whisper): **Reproduce paper** [Distil-Whisper: Robust Knowledge Distillation via Large-Scale Pseudo Labelling](https://arxiv.org/abs/2311.00430).
+    * [summary-evaluator](https://github.com/innerNULL/summary-evaluator): **Reproduce paper** [BERTScore: Evaluating Text Generation with BERT](https://arxiv.org/abs/1904.09675).
+    * [PLM-ICD-multi-label-classifier](https://github.com/innerNULL/PLM-ICD-multi-label-classifier/tree/main): **Reproduce paper** [PLM-ICD: Automatic ICD Coding with Pretrained Language Models](https://arxiv.org/abs/2207.05289v1).
     * [feather](https://github.com/innerNULL/feather): A **C++** **feature-hash** lib with **Python binding** provided.
     * [osimhash](https://github.com/innerNULL/osimhash): A **Python binder** over [**simhash**](https://github.com/yanyiwu/simhash) **C++** text deduplication lib.
     * [pypack](https://github.com/innerNULL/pypack): Generates **Python runtime tar.gz file** (for **PySpark**) runnable on all python-version/os/platforms.
