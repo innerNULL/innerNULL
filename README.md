@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 ![Language Stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=innerNULL&layout=compact&langs_count=8&hide_border=true)
 
 
-Hi, I'm a **_machine learning engineer_** focusing/focused on: **_NLP_, _recommender-system_, _quantitative finance_, _model-compression_**. 
+Hi, I'm a **_machine learning engineer_** focusing/focused on: **_NLP_, _recommender system_, _quantitative finance_**. 
 
 I have experience in **machine learning**, **backend engineering** and **data engineering** domains, following are the **tech stacks** I used before: 
 * **Programming Languages**: _Python, C++, Java (Only for Data-Engineering), SQL, JavaScript, Shell, Rust (A Little)_
