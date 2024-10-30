@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 Hi, I'm a **_machine learning engineer_** focusing/focused on: **_NLP_, _recommender system_, _quantitative finance_**. 
 
-I have experience in **machine learning**, **backend engineering** and **data engineering** domains, following are the **tech stacks** I used before: 
+I have **machine learning**, **backend engineering** and **data engineering** experiences, following are the **tech stacks** I used before: 
 * **Programming Languages**: _Python, C++, Java (Only for Data-Engineering), SQL, JavaScript, Shell, Rust (A Little)_
 * **Frameworks, Libs or Tools**: _Pulsar, Milvus, gRPC, Spark, Hive, K8S, PyTorch, FAISS, Redis, Flask, TensorFlow (Long Time Ago)_
 
