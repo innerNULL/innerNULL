@@ -31,7 +31,7 @@ Here is my **projects index**:
 * **Side Projects**
     * [simpler-distil-whisper](https://github.com/innerNULL/simpler-distil-whisper): **Reproduce paper** [Distil-Whisper: Robust Knowledge Distillation via Large-Scale Pseudo Labelling](https://arxiv.org/abs/2311.00430).
     * [PLM-ICD-multi-label-classifier](https://github.com/innerNULL/PLM-ICD-multi-label-classifier/tree/main): **Reproduce paper** [PLM-ICD: Automatic ICD Coding with Pretrained Language Models](https://arxiv.org/abs/2207.05289v1).
-    * [SlimPajama-DC Data Deduplicator]([https://github.com/innerNULL/mia/blob/main/bin/etl/dataset/text_corpus/text_corpus_slimpajama_dc_processor.py](https://github.com/innerNULL/mia/tree/main/bin/papers/slimpajama-dc)): **Reproduce paper** [SlimPajama-DC: Understanding Data Combinations for LLM Training](https://arxiv.org/abs/2309.10818).
+    * [SlimPajama-DC Data Deduplicator](https://github.com/innerNULL/mia/blob/main/bin/etl/dataset/text_corpus/text_corpus_slimpajama_dc_processor.py): **Reproduce paper** [SlimPajama-DC: Understanding Data Combinations for LLM Training](https://arxiv.org/abs/2309.10818).
     * [feather](https://github.com/innerNULL/feather): A **C++** **feature-hash** lib with **Python binding** provided.
     * [osimhash](https://github.com/innerNULL/osimhash): A **Python binder** over [**simhash**](https://github.com/yanyiwu/simhash) **C++** text deduplication lib.
     * [pypack](https://github.com/innerNULL/pypack): Generates **Python runtime tar.gz file** (for **PySpark**) runnable on all python-version/os/platforms.
