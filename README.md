@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 ![Language Stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=innerNULL&layout=compact&langs_count=8&hide_border=true)
 
 
-Hi, I'm a **_machine learning engineer / data scientist_** focusing/focused on: **_NLP_, _recommender system_, _quantitative finance_**. 
+Hi, I'm a **_machine learning engineer / data scientist_** focusing/focused on: **_LLM_, _NLP_, _recommender system_, _quantitative finance_**. 
 
 Here is my **projects index**:
 * **Open Source Contributions**
