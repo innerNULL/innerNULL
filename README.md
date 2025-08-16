@@ -20,13 +20,13 @@ Here are some ideas to get you started:
 ![Language Stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=innerNULL&layout=compact&langs_count=8&hide_border=true)
 
 
-Hi, I'm a **_machine learning engineer_** focusing/focused on: **_NLP_, _recommender system_, _quantitative finance_**. 
-
-I have **machine learning**, **backend engineering** and **data engineering** experiences, following are the **tech stacks** I used before: 
-* **Programming Languages**: _Python, C++, Java (Only for Data-Engineering), SQL, JavaScript, Shell, Rust (A Little)_
-* **Frameworks, Libs or Tools**: _Pulsar, Milvus, gRPC, Spark, Hive, K8S, PyTorch, FAISS, Redis, Flask, TensorFlow (Long Time Ago)_
+Hi, I'm a **_machine learning engineer / data scientist_** focusing/focused on: **_NLP_, _recommender system_, _quantitative finance_**. 
 
 Here is my **projects index**:
+* **Open Source Contributions**
+    * [huggingface/transformers](https://github.com/huggingface/transformers/commits/main/?author=innerNULL)
+    * [OpenNMT/Tokenizer](https://github.com/OpenNMT/Tokenizer/commits/master/?author=innerNULL)
+    * [yanyiwu/simhash](https://github.com/yanyiwu/simhash/commits/master/?author=innerNULL)
 
 * **Side Projects**
     * [simpler-distil-whisper](https://github.com/innerNULL/simpler-distil-whisper): **Reproduce paper** [Distil-Whisper: Robust Knowledge Distillation via Large-Scale Pseudo Labelling](https://arxiv.org/abs/2311.00430).
