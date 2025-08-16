@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 Hi, I'm a **_machine learning engineer / data scientist_** focusing/focused on: **_LLM_, _NLP_, _recommender system_, _quantitative finance_**. 
 
-Less talk more coding:
+**_Less talking more coding_**:
 * **Open Source Contributions**
     * [huggingface/transformers](https://github.com/huggingface/transformers/commits/main/?author=innerNULL)
     * [OpenNMT/Tokenizer](https://github.com/OpenNMT/Tokenizer/commits/master/?author=innerNULL)
