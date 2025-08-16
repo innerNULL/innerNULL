@@ -36,12 +36,12 @@ Hi, I'm a **_machine learning engineer / data scientist_** focusing/focused on: 
     * [osimhash](https://github.com/innerNULL/osimhash): A **Python binder** over [**simhash**](https://github.com/yanyiwu/simhash) **C++** text deduplication lib.
     * [pypack](https://github.com/innerNULL/pypack): Generates **Python runtime tar.gz file** (for **PySpark**) runnable on all python-version/os/platforms.
 
-* **Codes Reading**  
+* **Learning**  
     * [fastTextAnnotation](https://github.com/innerNULL/fastTextAnnotation/tree/code_reading): The very detailed code annotation for facebook fasttext lib.
     * [hnswlibAnnotation](https://github.com/innerNULL/hnswlibAnnotation/tree/code_reading): The very detailed code annotation for hnswlib.  
     * [finBERT](https://github.com/innerNULL/finBERT/tree/code_reading): BERT for financial news sentiment classification.
 
-* **Self Using**  
+* **Personal Using**  
     * [quicmd](https://github.com/innerNULL/quicmd): Some useful quickly execution commands.
     * [config4](https://github.com/innerNULL/config4): Some self-using configs, for now about tmux and vim.
     * [wiki4codes](https://github.com/innerNULL/wiki4codes): Some lib/framework/algorithms/models' trials recording, demos, examples, etc...
