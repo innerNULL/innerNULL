@@ -24,7 +24,7 @@ Hi, I'm a **_machine learning engineer / data scientist_** focusing/focused on: 
 
 **_Less talking more coding_**:
 * **Open Source Contributions**
-    * [huggingface/transformers](https://github.com/huggingface/transformers/commits/main/?author=innerNULL)
+    * [huggingface/transformers](https://github.com/huggingface/transformers/pulls?q=is%3Apr+author%3AinnerNULL+is%3Aclosed)
     * [OpenNMT/Tokenizer](https://github.com/OpenNMT/Tokenizer/commits/master/?author=innerNULL)
     * [yanyiwu/simhash](https://github.com/yanyiwu/simhash/commits/master/?author=innerNULL)
 
